@@ -19,8 +19,8 @@ const payment = {
 const apikeyOtpKu = "xg3H0pUKctadTouFOMR45BrkED8XLm"
 //https://otpku.com
 
-  global.ownerNumber = "6283842204546@s.whatsapp.net"
-  global.kontakOwner = "6283842204546"
+  global.ownerNumber = "6283153305709@s.whatsapp.net"
+  global.kontakOwner = "6283153305709"
   global.namaStore = "YUDAMODS"
   global.botName = "YUDAMODS"
   global.ownerName = "YUDAMODS"
